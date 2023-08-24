@@ -1,1 +1,1 @@
-# informatica_para_interente
+# Curso Técnico em Informática para Internet
