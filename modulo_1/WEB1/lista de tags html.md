@@ -8,11 +8,11 @@
    
 ```<meta>```: Fornece metadados sobre o documento, como o conjunto de caracteres e a descrição.
    
-```*<title>```: Define o título da página, exibido na barra de título do navegador ou na aba.
+```<title>```: Define o título da página, exibido na barra de título do navegador ou na aba.
    
 ```<link>```: Conecta o documento a recursos externos, como folhas de estilo CSS.
    
-```*<script>```: Inclui scripts, geralmente JavaScript, no documento.
+```<script>```: Inclui scripts, geralmente JavaScript, no documento.
    
 ```<style>```: Define estilos CSS a serem aplicados ao documento.
    
