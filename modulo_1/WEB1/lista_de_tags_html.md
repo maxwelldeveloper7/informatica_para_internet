@@ -20,7 +20,7 @@
    
 ```<h1>, <h2>, ..., <h6>```: Define cabeçalhos de diferentes níveis.
     
- ```<p>```: Define um parágrafo de texto.
+```<p>```: Define um parágrafo de texto.
     
 ```<a>```: Cria um link para outra página ou recurso.
     
@@ -40,7 +40,7 @@
     
 ```<button>```: Cria um botão interativo.
     
-```*<label>```: Rótulo para um elemento de entrada em um formulário.
+```<label>```: Rótulo para um elemento de entrada em um formulário.
     
 ```<select>```: Cria um menu suspenso de opções.
     
@@ -50,7 +50,7 @@
     
 ```<video>```: Insere vídeo na página.
     
-```*<canvas>```: Cria uma área para desenho dinâmico com JavaScript.
+```<canvas>```: Cria uma área para desenho dinâmico com JavaScript.
     
 ```<header>, <footer>, <nav>, <article>```: Elementos semânticos para estruturar o layout da página.
     
