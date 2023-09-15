@@ -1,4 +1,4 @@
-# Elabore 10 exercícios progressivos sobre fundamentos de hardware
+# Exercícios progressivos sobre fundamentos de hardware
 
 ## 🗒️ Exercício 1
 **Pergunta**: Defina o termo "hardware".
