@@ -3,7 +3,7 @@ nome = ''
 saudacao = ''
 
 while(True):
-    print('Este programa recebe o nome, hora e munitos do usuário, e faz uma Saudação!')
+    print('Este programa recebe o nome e hora do usuário, e faz uma Saudação!')
     print('')
     nome = input('Informe o seu nome: ')
     hora = input('Informe as horas: ')
