@@ -2,7 +2,6 @@ hora = 0
 nome = ''
 saudacao = ''
 
-
 while(True):
     print('Este programa recebe o nome, hora e munitos do usuário, e faz uma Saudação!')
     print('')
