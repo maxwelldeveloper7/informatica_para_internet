@@ -57,3 +57,37 @@ Código HTML:
 9. Qual é a tag HTML usada para criar links de navegação na lista de itens de navegação?
 
 10. No código, qual é a tag HTML usada para especificar que este é um documento HTML5?
+
+## Respostas
+Claro, aqui está o gabarito das respostas para as questões:
+
+1. No código acima, qual tag HTML é usada para definir o título da página?
+   Resposta: `<title>`
+
+2. Qual tag HTML é usada para criar um cabeçalho principal?
+   Resposta: `<header>`
+
+3. Identifique a tag HTML usada para criar uma lista não ordenada de itens de navegação.
+   Resposta: `<ul>`
+
+4. No código, qual é a tag HTML usada para agrupar o conteúdo principal da página?
+   Resposta: `<main>`
+
+5. Qual tag HTML é usada para criar uma seção na página?
+   Resposta: `<section>`
+
+6. Qual é a tag HTML usada para criar um parágrafo?
+   Resposta: `<p>`
+
+7. No código, qual tag HTML é usada para criar um menu de navegação?
+   Resposta: `<nav>`
+
+8. Identifique a tag HTML usada para criar um rodapé.
+   Resposta: `<footer>`
+
+9. Qual é a tag HTML usada para criar links de navegação na lista de itens de navegação?
+   Resposta: `<a>`
+
+10. No código, qual é a tag HTML usada para especificar que este é um documento HTML5?
+    Resposta: `<!DOCTYPE html>`
+
