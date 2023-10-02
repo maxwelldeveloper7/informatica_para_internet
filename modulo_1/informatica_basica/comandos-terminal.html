@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Guia Iniciante no Ubuntu</title>
+    <style>
+        /* Estilo para simular um terminal */
+        code {
+            display: block;
+            background-color: #000;
+            color: #fff;
+            padding: 10px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            border-radius: 5px;
+        }
+
+        /* Estilo para mídia de impressão */
+        @media print {
+            code {
+                background-color: transparent;
+                color: #413838; /* Tornar o texto preto para impressão */
+                border: 1px solid #413838;
+            }
+            p{
+                font-family: 'Courier New', Courier, monospace;
+                font-size: 1em;
+            }
+            h1{
+                font-size: 1.5em;
+                font-family: 'Courier New', Courier, monospace;
+            }
+    
+            h2{
+                font-size: 1.1em;
+                font-family: 'Courier New', Courier, monospace;
+            }
+        }
+
+        p{
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 1em;
+        }
+
+        h1{
+            font-size: 1.5em;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        h2{
+            font-size: 1.1em;
+            font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Guia para Iniciantes no Ubuntu</h1>
+
+    <h2>1. Abrindo o Terminal</h2>
+    <p>Para abrir o Terminal no Ubuntu, pressione <code>Ctrl + Alt + T</code> ou procure por "Terminal" no Dash (menu).</p>
+
+    <h2>2. Navegando pelo Sistema de Arquivos</h2>
+    <p>Use os seguintes comandos:</p>
+    <code>pwd</code> - Mostra o diretório atual. Exemplo: <code>/home/seu_usuario</code><br>
+    <code>ls</code> - Lista arquivos e pastas no diretório atual. Exemplo: <code>Documentos  Downloads  Imagens</code><br>
+    <code>cd</code> - Navega para um diretório específico. Exemplo: <code>cd Documentos</code>
+
+    <h2>3. Criando Pastas</h2>
+    <p>Use o comando <code>mkdir</code> para criar pastas. Por exemplo, para criar uma pasta chamada "MeusDocumentos", digite:</p>
+    <code>mkdir MeusDocumentos</code>
+
+    <h2>4. Deletando Arquivos e Pastas</h2>
+    <p>Use o comando <code>rm</code> para excluir arquivos e pastas. <strong>Cuidado!</strong> Este comando é irreversível e pode apagar permanentemente dados.</p>
+    <p>Para excluir um arquivo:</p>
+    <code>rm nome_do_arquivo</code> Exemplo: <code>rm arquivo.txt</code>
+    <p>Para excluir uma pasta e seu conteúdo:</p>
+    <code>rm -r nome_da_pasta</code> Exemplo: <code>rm -r MeusDocumentos</code>
+
+    <h2>5. Instalando Programas</h2>
+    <p>Use o comando <code>sudo apt-get install</code> para instalar programas. Substitua "nome_do_programa" pelo nome do programa que deseja instalar. Por exemplo:</p>
+    <code>sudo apt-get install firefox</code>
+
+    <h2>6. Atualizando Pacotes</h2>
+    <p>Para manter seu sistema atualizado, use os seguintes comandos:</p>
+    <code>sudo apt-get update</code> - Atualiza a lista de pacotes disponíveis.<br>
+    <code>sudo apt-get upgrade</code> - Atualiza os pacotes instalados.
+
+    <p>Lembre-se de que é importante ter cuidado ao usar o terminal, especialmente com comandos de exclusão (<code>rm</code>) e ao instalar programas com <code>sudo</code>. Certifique-se de entender o que cada comando faz antes de executá-lo.</p>
+</body>
+</html>
