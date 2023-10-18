@@ -1,0 +1,10 @@
+h1 {
+    border: dotted black 2px;
+    padding: 20px;
+    text-align: center;
+    background-color: beige;
+}
+
+h2 {
+    color: blue;
+}
