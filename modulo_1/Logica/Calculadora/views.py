@@ -1,0 +1,11 @@
+def escreve_menu():
+    print('*****************************************************')
+    print('* Bem vindo à calculadora do curso TI para Internet *')
+    print('*****************************************************')
+    print()
+    print('1-Adição')
+    print('2-Subtração')
+    print('3-Multiplicação')
+    print('4-Divisão')
+    print('5-Sair')
+    print()
