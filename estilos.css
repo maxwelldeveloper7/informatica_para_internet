@@ -1,7 +1,26 @@
+
 h1 {
-    
+    font-size: 32px;
 }
 
 h2 {
-    
+    font-size: 24px;
+}
+
+table {
+    margin-right: 100px;
+    margin-left: 100px;
+    border: solid black 2px;
+}
+
+th {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+td {
+    border: dotted grey 1px;
+    padding: 10px;
 }
