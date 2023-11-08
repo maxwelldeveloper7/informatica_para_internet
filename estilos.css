@@ -1,8 +1,22 @@
+body {
+    
+}
 
 h1 {
     font-size: 32px;
     text-align: center;
     margin-top: 20px;
+    border: dashed black 1px;
+}
+
+nav {
+    border: dashed green 1px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    border: dashed blue 1px;
 }
 
 ul {
@@ -13,14 +27,26 @@ li{
     margin-left: 10px;
 }
 
+figure{
+    border: dashed orange 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 img {
     margin: auto;
     display: block;
 }
 
+figcaption{
+    text-align: center;
+}
 
 
 h2 {
+    margin-top: 32px;
+    margin-bottom: 16px;
     font-size: 24px;
     text-align: center;
 }
@@ -42,4 +68,10 @@ th {
 td {
     border: dotted grey 1px;
     padding: 10px;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 16px;
 }
