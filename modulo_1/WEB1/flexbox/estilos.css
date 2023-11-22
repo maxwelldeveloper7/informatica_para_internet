@@ -1,0 +1,36 @@
+section{    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vw;
+}
+
+div {
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+}
+.quadro1 {
+    background-color: blue;
+}
+
+.quadro2 {
+    background-color: rgb(0, 255, 255);
+}
+
+.quadro3 {
+    background-color: rgb(255, 0, 221);
+}
+
+.quadro4 {
+    background-color: rgb(255, 0, 55);
+}
+
+.quadro5 {
+    background-color: rgb(255, 217, 0);
+}
+
+.quadro6 {
+    background-color: rgb(9, 255, 0);
+}
